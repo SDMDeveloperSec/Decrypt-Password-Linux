@@ -14,5 +14,5 @@ class main() :
 			if decry == hash:
 				print "Senha Encontrada : " + data
 				break
-
-main()
+if __name__ === "__main__" :
+	main()
